@@ -1,0 +1,12 @@
+#content {
+	width: 90%;
+	margin-left: 0;
+}
+
+#background-image {
+	background: none;
+}
+
+#mobile-picture {
+	background: url('http://d13pix9kaak6wt.cloudfront.net/background/aliceko_1309800828_53.jpg');
+}

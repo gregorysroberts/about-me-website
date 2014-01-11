@@ -43,3 +43,7 @@ li {
 #portfolio {
 	padding-bottom: 10px;
 }
+
+#mobile-picture {
+	display: none;
+}
