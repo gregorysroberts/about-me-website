@@ -49,7 +49,7 @@ li:after {
 	border-bottom: 8px solid transparent;
 	border-left: 8px solid #383636;
 	float: right;
-	margin-top: 1.25%;
+	margin-top: 1.35%;
 }
 
 #portfolio {
@@ -60,5 +60,11 @@ li:after {
 	display: none;
 }
 
+a {
+	text-decoration: none;
+}
 
+li:hover {
+	background-color: #EEE6E6;
+}
 
