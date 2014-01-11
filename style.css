@@ -5,7 +5,7 @@ body {
 }
 
 #background-image {
-	background: url('http://d13pix9kaak6wt.cloudfront.net/background/aliceko_1309800828_53.jpg') no-repeat center;
+	background: url('https://lh4.googleusercontent.com/-iCB2VKDRfDY/UbR7STdWjCI/AAAAAAAAALY/_oxGFWU4-N8/w852-h479-no/f9175761-46e1-4989-97be-de8c62c3dd61') no-repeat center;
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -22,7 +22,7 @@ body {
 
 #content-box {
 	background-color: #414040;
-	opacity: 0.55;
+	opacity: 0.65;
 	padding: 5px 30px;
 	border-radius: 6px;
 }
@@ -47,3 +47,6 @@ li {
 #mobile-picture {
 	display: none;
 }
+
+
+

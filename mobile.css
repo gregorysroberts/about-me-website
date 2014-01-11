@@ -3,14 +3,18 @@
 	margin-left: 0;
 }
 
-#background-image {
-	background: none;
-}
-
 #mobile-picture {
-	display: inline;
+	background: url('https://lh4.googleusercontent.com/-iCB2VKDRfDY/UbR7STdWjCI/AAAAAAAAALY/_oxGFWU4-N8/w852-h479-no/f9175761-46e1-4989-97be-de8c62c3dd61') no-repeat center;
+	background-size: cover;
+	display: block;
+	height: 340px;
+	width: 100%;
 }
 
 #mobile-picture img {
 	width: 100%;
+}
+
+#background-image {
+	background: none;
 }
