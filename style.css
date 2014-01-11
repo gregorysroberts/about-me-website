@@ -1,0 +1,23 @@
+body {
+	font-family: 'News Cycle', sans-serif;
+}
+
+
+#content {
+    background: #303030;
+    color: #989898;
+    margin: 0 auto;
+    padding:0 5%;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0 3% 0 0;
+}
+
+li {
+    background-color: #A7A7A7;
+    color: #212121;
+    border: 1px solid #313131;
+    padding:3px 30px;
+}
