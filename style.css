@@ -36,8 +36,20 @@ li {
     background-color: #A7A7A7;
     color: #212121;
     border: 1px solid #313131;
-    padding:3px 30px;
+    padding:3px 5%;
     border-radius: 3px;
+}
+
+li:after {
+	content: '';
+	display: inline-block;
+	width: 0; 
+	height: 0; 
+	border-top: 8px solid transparent;
+	border-bottom: 8px solid transparent;
+	border-left: 8px solid #383636;
+	float: right;
+	margin-top: 1.25%;
 }
 
 #portfolio {
